@@ -17,7 +17,7 @@
     </head>
     <body class="antialiased">
         <div id="app">
-            <chat-component></chat-component>
+            {{-- <chat-component></chat-component> --}}
         </div>
     </body>
     <script>
